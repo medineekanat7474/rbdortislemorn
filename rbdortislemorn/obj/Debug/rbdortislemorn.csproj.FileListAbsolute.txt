@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\rbdortislemorn\rbdortislemorn\bin\Debug\rbdortislemorn.exe.config
+C:\Users\User\source\repos\rbdortislemorn\rbdortislemorn\bin\Debug\rbdortislemorn.exe
+C:\Users\User\source\repos\rbdortislemorn\rbdortislemorn\bin\Debug\rbdortislemorn.pdb
+C:\Users\User\source\repos\rbdortislemorn\rbdortislemorn\obj\Debug\rbdortislemorn.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\rbdortislemorn\rbdortislemorn\obj\Debug\rbdortislemorn.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\rbdortislemorn\rbdortislemorn\obj\Debug\rbdortislemorn.Form1.resources
+C:\Users\User\source\repos\rbdortislemorn\rbdortislemorn\obj\Debug\rbdortislemorn.Properties.Resources.resources
+C:\Users\User\source\repos\rbdortislemorn\rbdortislemorn\obj\Debug\rbdortislemorn.csproj.GenerateResource.cache
+C:\Users\User\source\repos\rbdortislemorn\rbdortislemorn\obj\Debug\rbdortislemorn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\rbdortislemorn\rbdortislemorn\obj\Debug\rbdortislemorn.exe
+C:\Users\User\source\repos\rbdortislemorn\rbdortislemorn\obj\Debug\rbdortislemorn.pdb
